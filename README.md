@@ -14,6 +14,8 @@ Exam tickets on computer networks
   </ul>
 </details>
 
+<p>test text</p>
+
 ## 2 Вычислительные сети - частный случай распределённых систем.
 <details> 
   <summary></summary>
