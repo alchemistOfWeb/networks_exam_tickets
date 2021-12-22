@@ -3,11 +3,11 @@ Exam tickets on computer networks
 
 
 ## 1 Эволюция вычислительных сетей 
-
 <details> 
   <summary></summary>
   <ul>
-    <li> <b>Пакетная обработка на базе мейнфреймов</b> - Пльзователи подготавливали перфокарты, содержащие данные и программы и передавали их в вычислительный центр. Вводили их в комьютер специально обученные люди - операторы. Распечатанные результаты пользователь обычно получал уже на следующий день. </li>
+    <li> <b>Пакетная обработка на базе мейнфреймов</b> - Пльзователи подготавливали перфокарты, содержащие данные и программы и передавали их в вычислительный центр. Вводили их в комьютер специально обученные люди - операторы. Распечатанные результаты пользователь обычно получал уже на следующий день. 
+    </li>
     <li> <b>Многотерминальные системы</b> -  </li>
     <li> <b>Первые локальные сети</b> - В начале 70-x </li>
     <li> <b>ARPANET</b> </li>
@@ -17,42 +17,39 @@ Exam tickets on computer networks
 
 
 ## 2 Вычислительные сети - частный случай распределённых систем.
-
 <details> 
   <summary></summary>
   <ul>
-    <li> <b>Вычислительные сети</b> 
-    <li> <b>Распределённые системы</b> - 
-    <li> <b>общие признаки и различия</b> 
+    <li> <b>Вычислительные сети</b> </li>
+    <li> <b>Распределённые системы</b> - </li>
+    <li> <b>общие признаки и различия</b> </li>
       <ul>
         <li> 1 </li>
         <li> 2 </li>
         <li> 3 </li>
       </ul>
-    <li> <b>...</b>
+    <li> <b>...</b> </li>
   </ul>
 </details>
 
 
 ## 3 Основные программные и аппаратные компоненты сети
-
 <details> 
   <summary></summary>
   <ul>
-    <li> <b>программные</b> перечисление с описанием решаемых проблем
-    <li> <b>аппаратные</b> - перечисление с описанием решаемых проблем
+    <li> <b>программные</b> перечисление с описанием решаемых проблем </li>
+    <li> <b>аппаратные</b> - перечисление с описанием решаемых проблем </li>
   </ul>
 </details>
 
 
 ## 4 Связь компьютера с периферийными устройствами
-
 <details> 
   <summary></summary>
   <ul>
-    <li> <b>интерфесы, адаптеры, контроллеры</b> 
-    <li> <b>как обеспечивается безопасноть</b>
-    <li> <b>как обеспечивается целостность</b>
+    <li> <b>интерфесы, адаптеры, контроллеры</b> </li>
+    <li> <b>как обеспечивается безопасноть</b> </li>  
+    <li> <b>как обеспечивается целостность</b> </li>
   </ul>
 </details>
 
@@ -62,9 +59,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b> </li>
+    <li> <b></b> </li>
   </ul>
 </details>
 
@@ -72,9 +69,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b>  </li>
+    <li> <b></b> </li>
+    <li> <b></b> </li>
   </ul>
 </details>
 
@@ -82,9 +79,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b>  </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -92,9 +89,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -102,9 +99,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -112,9 +109,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -122,9 +119,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -132,9 +129,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -142,9 +139,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -152,9 +149,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -162,9 +159,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -172,9 +169,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -182,9 +179,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -192,9 +189,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -202,9 +199,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -212,9 +209,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -222,9 +219,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li>Понятность/открытость системы для юзверей<b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li>Понятность/открытость системы для юзверей<b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -232,9 +229,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li>наркотрафик<b></b> 
-    <li>дорожный трафик<b></b>
-    <li> <b></b>
+    <li>наркотрафик<b></b> </li>
+    <li>дорожный трафик<b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -242,9 +239,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -252,9 +249,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -262,9 +259,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b></li> 
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -272,9 +269,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b></li> 
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -282,9 +279,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -292,9 +289,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b></li> 
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -302,9 +299,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b></li> 
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -312,9 +309,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b></li> 
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -324,9 +321,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -334,9 +331,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -344,9 +341,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b></li> 
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -354,9 +351,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -364,9 +361,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -374,9 +371,9 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
 
@@ -384,8 +381,8 @@ Exam tickets on computer networks
 <details> 
   <summary></summary>
   <ul>
-    <li> <b></b> 
-    <li> <b></b>
-    <li> <b></b>
+    <li> <b></b> </li>
+    <li> <b></b></li>
+    <li> <b></b></li>
   </ul>
 </details>
