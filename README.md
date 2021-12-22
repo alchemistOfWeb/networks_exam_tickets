@@ -15,7 +15,6 @@ Exam tickets on computer networks
   </ul>
 </details>
 
-<p>test text</p>
 
 ## 2 Вычислительные сети - частный случай распределённых систем.
 
@@ -26,9 +25,9 @@ Exam tickets on computer networks
     <li> <b>Распределённые системы</b> - 
     <li> <b>общие признаки и различия</b> 
       <ul>
-        <li> 1
-        <li> 2
-        <li> 3
+        <li> 1 </li>
+        <li> 2 </li>
+        <li> 3 </li>
       </ul>
     <li> <b>...</b>
   </ul>
@@ -36,6 +35,7 @@ Exam tickets on computer networks
 
 
 ## 3 Основные программные и аппаратные компоненты сети
+
 <details> 
   <summary></summary>
   <ul>
@@ -44,7 +44,9 @@ Exam tickets on computer networks
   </ul>
 </details>
 
+
 ## 4 Связь компьютера с периферийными устройствами
+
 <details> 
   <summary></summary>
   <ul>
@@ -54,7 +56,9 @@ Exam tickets on computer networks
   </ul>
 </details>
 
+
 ## 5 Проблемы физической передачи данных
+
 <details> 
   <summary></summary>
   <ul>
